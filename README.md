@@ -1,2 +1,2 @@
 # Lesson_2
-Second lesson homework
+Learning loops
